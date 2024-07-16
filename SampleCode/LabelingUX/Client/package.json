@@ -12,7 +12,8 @@
         "immutability-helper": "^3.1.1",
         "jsonschema": "^1.4.1",
         "jszip": "^3.10.0",
-        "node-sass": "^7.0.1",
+        "node-sass": "^9.0.0",
+        "sass-loader": "^14.2.1",
         "ol": "6.14.1",
         "pdfjs-dist": "^2.14.305",
         "qs": "^6.11.0",
@@ -63,7 +64,7 @@
         "jest-junit": "^12.3.0",
         "prettier": "^2.7.1",
         "redux-mock-store": "^1.5.4",
-        "typescript": "^4.7.4",
+        "typescript": "^4.9.5",
         "uuid": "^8.3.2"
     },
     "scripts": {
